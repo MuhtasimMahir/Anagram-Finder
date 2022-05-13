@@ -1,0 +1,3 @@
+C:/Users/ASUS/CLionProjects/AnagramFinder/cmake-build-debug/CMakeFiles/AnagramFinder.dir
+C:/Users/ASUS/CLionProjects/AnagramFinder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/CLionProjects/AnagramFinder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
